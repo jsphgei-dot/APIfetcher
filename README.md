@@ -17,6 +17,6 @@ When the user types in the **search bar**, the **user list** **filters in real-t
 <br>
 <br>
 <br>
-<img width="328" height="734" alt="image" src="https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225842.png?raw=true" />
+<img width="328" height="734" alt="image" src="[https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225842.png?raw=true](https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225842.png?raw=true)" />
 <br>
-<img width="328" height="734" alt="image" src="https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225847.png?raw=true" />
+<img width="328" height="734" alt="image" src="[https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225847.png?raw=true](https://github.com/jsphgei-dot/APIfetcher/blob/main/Screenshots/Screenshot%202025-11-14%20225847.png?raw=true)" />
