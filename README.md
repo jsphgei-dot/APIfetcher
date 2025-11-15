@@ -17,6 +17,6 @@ When the user types in the **search bar**, the **user list** **filters in real-t
 <br>
 <br>
 <br>
-<img width="328" height="734" alt="image" src="https:/<img width="421" height="976" src="https://github.com/user-attachments/assets/1545b441-dcd6-40d8-a70c-34c65bb6dba8"/>
+<img width="421" height="976" alt="Screenshot 2025-11-14 225842" src="https://github.com/user-attachments/assets/f24fc801-5390-456a-b4ac-ada4827547f7" />
 <br>
-<img width="328" height="734" alt="image" src="https://github.com/jsphgei-d<img width="421" height="973" alt="Screenshot 2025-11-14 225847" src="https://github.com/user-attachments/assets/abf60089-c861-4ca9-b86a-ef92a18c997a"/>
+<img width="421" height="973" alt="Screenshot 2025-11-14 225847" src="https://github.com/user-attachments/assets/8a33452f-a64a-47be-bc68-ab286ccc82ac" />
